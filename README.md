@@ -109,11 +109,11 @@ Como **profesional certificado por Microsoft**, he validado mis conocimientos en
 
 🎓 **Azure & Cloud**
 - Microsoft Certified: Azure Solutions Architect
-- Microsoft Certified: Azure AI Engineer
 - Microsoft Certified: Azure Developer Associate
+- Microsoft Certified: Azure Fundamentals
 
 💡 **AI & Data**
-- Microsoft Certified: AI Engineer Associate
+- Microsoft Certified: Azure AI Engineer Associate
 - Microsoft Certified: Azure AI Fundamentals
 - Especialización en Azure OpenAI Service
 
