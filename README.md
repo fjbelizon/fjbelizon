@@ -2,10 +2,12 @@
   
 # 👋 Hola, soy Fernando J. Belizón
 
-### Software & Cloud Architect | AI Specialist
+### Software & Cloud Architect | AI Platform Engineering
+### Expert in Custom Solutions & Digital Transformation | Microsoft Certified
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fjbelizon/)
 [![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com)
+[![Microsoft Certified](https://img.shields.io/badge/Microsoft_Certified-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/certifications/)
 
 </div>
 
@@ -98,6 +100,26 @@ Desarrollo:
 🌟 **Actualidad (2020-Presente)**: Especialización en Inteligencia Artificial, Agent Frameworks y soluciones cloud avanzadas
 
 Un perfil experto con amplio recorrido que ha sabido adaptarse y liderar la adopción de las tecnologías más innovadoras en cada etapa.
+
+---
+
+## 🏆 Certificaciones Microsoft
+
+Como **profesional certificado por Microsoft**, he validado mis conocimientos en las siguientes áreas:
+
+🎓 **Azure & Cloud**
+- Microsoft Certified: Azure Solutions Architect
+- Microsoft Certified: Azure AI Engineer
+- Microsoft Certified: Azure Developer Associate
+
+💡 **AI & Data**
+- Microsoft Certified: AI Engineer Associate
+- Microsoft Certified: Azure AI Fundamentals
+- Especialización en Azure OpenAI Service
+
+🔧 **Platform Engineering**
+- Microsoft Certified: DevOps Engineer Expert
+- Experiencia en diseño e implementación de soluciones empresariales en Azure
 
 ---
 
