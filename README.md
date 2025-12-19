@@ -21,7 +21,7 @@ Mi pasión es transformar desafíos empresariales complejos en soluciones inteli
 
 Con **más de 15 años de experiencia** en desarrollo de software desde 2010, he evolucionado desde Visual Basic hasta las tecnologías más vanguardistas en Inteligencia Artificial, demostrando una capacidad continua de adaptación y liderazgo tecnológico.
 
-📍 **Ubicación:** Alhaurín de la Torre, España
+📍 **Ubicación:** Alhaurín de la Torre, Málaga, España
 
 ---
 
@@ -44,7 +44,7 @@ Cloud & Architecture:
   - Arquitecturas Serverless
 
 Desarrollo:
-  - Python / .NET / C#
+  - .NET / C#
   - Visual Basic (Legacy Systems)
   - RESTful APIs
   - Aplicaciones Empresariales
@@ -64,7 +64,6 @@ Desarrollo:
 ![Agent Framework](https://img.shields.io/badge/Agent_Framework-00ADD8?style=for-the-badge&logo=robot&logoColor=white)
 
 ### Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
@@ -72,7 +71,7 @@ Desarrollo:
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Azure Container Apps](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
@@ -108,18 +107,8 @@ Un perfil experto con amplio recorrido que ha sabido adaptarse y liderar la adop
 Como **profesional certificado por Microsoft**, he validado mis conocimientos en las siguientes áreas:
 
 🎓 **Azure & Cloud**
-- Microsoft Certified: Azure Solutions Architect
-- Microsoft Certified: Azure Developer Associate
-- Microsoft Certified: Azure Fundamentals
-
 💡 **AI & Data**
-- Microsoft Certified: Azure AI Engineer Associate
-- Microsoft Certified: Azure AI Fundamentals
-- Especialización en Azure OpenAI Service
-
 🔧 **Platform Engineering**
-- Microsoft Certified: DevOps Engineer Expert
-- Experiencia en diseño e implementación de soluciones empresariales en Azure
 
 ---
 
