@@ -25,26 +25,26 @@ Trabajo en la convergencia entre:
 - 🏗️ Platform engineering y modernización de sistemas enterprise
 - 🔄 Automatización y transformación digital a escala
 
-Mi enfoque no es “usar IA”, sino **diseñar los sistemas donde la IA opera de forma fiable, segura y productiva**.
+Mi enfoque no es "usar IA", sino **diseñar sistemas donde la IA ofrezca un valor diferencial**.
 
 ---
 
-## 💼 Trayectoria profesional (visión resumida)
+## 💼 Trayectoria profesional
 
 Más de **15 años de experiencia en ingeniería de software y arquitectura**, evolucionando desde desarrollo tradicional hasta liderazgo en plataformas de IA.
 
 Mi recorrido se ha centrado en tres grandes etapas:
 
-- 🏗️ **Fundamentos de ingeniería (2010–2015)**  
-  Desarrollo de software empresarial y sistemas .NET en entornos complejos.
+- 🏗️ **Desarrollador (2010–2017)**  
+  Desarrollo de software empresarial para ecosistemas .NET en entornos complejos.
 
-- ☁️ **Arquitectura cloud (2015–2020)**  
+- ☁️ **Arquitecto cloud (2017–2022)**  
   Evolución hacia microservicios, DevOps y adopción de Microsoft Azure.
 
-- 🧠 **Arquitectura de IA (2020–actualidad)**  
+- 🧠 **Arquitecto IA (2022–actualidad)**  
   Diseño de plataformas de IA generativa, sistemas multi-agente y soluciones cloud inteligentes.
 
-A lo largo de este recorrido he combinado **arquitectura, liderazgo técnico y visión de plataforma**.
+A lo largo de este recorrido he combinado **arquitectura, liderazgo técnico y visión empresarial**, siempre en un lenguaje comprensible para nuestros clientes, que me ha permitido ser nexo entre lo técnico y lo funcional.
 
 ---
 
@@ -52,7 +52,7 @@ A lo largo de este recorrido he combinado **arquitectura, liderazgo técnico y v
 
 ### 🤖 Inteligencia Artificial
 - Sistemas basados en LLMs
-- Agentic AI (Agent SDK / Agent Framework)
+- Agentic AI (Agent SDK / Microsoft Agent Framework)
 - Arquitecturas de búsqueda semántica
 - Integración de IA en procesos empresariales
 
@@ -69,8 +69,8 @@ A lo largo de este recorrido he combinado **arquitectura, liderazgo técnico y v
 - Infraestructura como código
 
 ### 💻 Ingeniería de software
-- .NET ecosystem
-- APIs y backend systems
+- Ecosistema .NET y Microsoft
+- APIs y backends
 - Modernización de sistemas legacy
 - Integración de sistemas enterprise
 
@@ -79,10 +79,10 @@ A lo largo de este recorrido he combinado **arquitectura, liderazgo técnico y v
 ## 🎯 Enfoque actual
 
 - 🧠 Diseño de plataformas de IA generativa a escala empresarial  
-- 🤖 Arquitecturas basadas en agentes (Agentic Systems)  
+- 🤖 Arquitecturas basadas en agentes
 - ☁️ Evolución de sistemas cloud hacia plataformas inteligentes  
 - 🏗️ Construcción de plataformas robustas, observables y seguras  
-- 🔄 Transformación de sistemas legacy hacia arquitecturas AI-ready  
+- 🔄 Transformación de sistemas legacy hacia arquitecturas AI en cloud  
 
 ---
 
@@ -95,6 +95,6 @@ A lo largo de este recorrido he combinado **arquitectura, liderazgo técnico y v
 
 <div align="center">
 
-### 💬 “Diseño sistemas donde la IA pasa de concepto a plataforma operativa”
+### 💬 “Mi finalidad es diseñar sistemas donde la IA ofrezca un valor diferencial”
 
 </div>
